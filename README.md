@@ -1,2 +1,2 @@
 # Scripts
-Collection of Scripts for Microsoft Products 
+A collection of Powershell scripts for system admin
